@@ -29,5 +29,5 @@ MIT
 
 ## Questions
 
-GitHub: anthonylieu
-Email: anthonylieu1@gmail.com
+<br>GitHub: anthonylieu</br>
+<br>Email: anthonylieu1@gmail.com</br>
