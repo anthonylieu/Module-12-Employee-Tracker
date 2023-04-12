@@ -1,6 +1,6 @@
 # Module-12-Employee-Tracker
 
-![GitHub]
+![GitHub](https://img.shields.io/github/license/anthonylieu/Module-12-Employee-Tracker)
 
 ## Description
 
