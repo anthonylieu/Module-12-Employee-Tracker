@@ -1,0 +1,30 @@
+{
+  "name": "Module-12-Employee-Tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonylieu/Module-12-Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonylieu/Module-12-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/anthonylieu/Module-12-Employee-Tracker#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "console.table": "^0.10.0",
+    "dotenv": "^14.3.2",
+    "figlet": "^1.6.0",
+    "inquirer": "^8.2.5",
+    "mysql2": "^2.3.3",
+    "sql": "^0.78.0",
+    "validator": "^13.7.0"
+  }
+}
