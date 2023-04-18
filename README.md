@@ -16,7 +16,7 @@ Uses the command line to let you keep track of employees
 ## Installation
 
 ```
-npm i then add inquirer, mysql2, console.table, figlet, dotenv, validator
+npm i then add inquirer, mysql2, console.table, figlet, dotenv
 ```
 
 ## Usage
