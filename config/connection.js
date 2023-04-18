@@ -1,5 +1,7 @@
-const mysql = require('mysql2');
 
+
+// require dependencies
+const mysql = require('mysql2');
 require('dotenv').config();
 
 // create connection to our db

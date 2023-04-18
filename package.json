@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node  server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,13 +18,16 @@
   },
   "homepage": "https://github.com/anthonylieu/Module-12-Employee-Tracker#readme",
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^5.2.0",
     "console.table": "^0.10.0",
     "dotenv": "^14.3.2",
+    "env": "^0.0.2",
     "figlet": "^1.6.0",
     "inquirer": "^8.2.5",
+    "mysql": "^2.18.1",
     "mysql2": "^2.3.3",
+    "sponsors": "^0.2.0",
     "sql": "^0.78.0",
-    "validator": "^13.7.0"
+    "validator": "^13.9.0"
   }
 }
