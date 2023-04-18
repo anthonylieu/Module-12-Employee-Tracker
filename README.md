@@ -21,8 +21,8 @@ npm i then add inquirer, mysql2, console.table, figlet, dotenv
 
 ## Usage
 
-[Walkthrough Video](https://drive.google.com/file/d/1z4VpYI54ljux4ZGlqNAlLH4QU8cgMg44/view)
-See the sample folder for a picture of the end product of adding an employee
+<br>[Walkthrough Video](https://drive.google.com/file/d/1z4VpYI54ljux4ZGlqNAlLH4QU8cgMg44/view)</br>
+<br>See the sample folder for a picture of the end product of adding an employee</br>
 
 ## License
 
